@@ -1,5 +1,6 @@
 //This is Master change
  //super keyword
+Way to prove rebase
 This is new Commit
 class A
 {
