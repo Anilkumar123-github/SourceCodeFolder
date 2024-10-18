@@ -10,7 +10,7 @@ System.out.println(p);
 class B extends A
 {
 //from class A p=20,show()
-int q=50;
+int q=5009;
 int p=90;
 void show()
 {
