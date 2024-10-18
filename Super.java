@@ -1,9 +1,9 @@
- //super keyword
+   //super keyword
 class A
 {
 int p=20;
 void show()
-{
+ {
 System.out.println(p);
 }
 }
